@@ -15,6 +15,10 @@ This is text file brand2
 This is file test ssh linux
 
 
+<<<<<<< HEAD
 This is test merg from main to merge-test
 
 This is brand ssh second_brand
+=======
+Test version 3
+>>>>>>> d199489 (	modified:   demotest.js)
